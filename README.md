@@ -1,3 +1,3 @@
 # JX Smart Generator - Rocks
 
-Blender extension, addon (jxsg-rocks).
+Blender extension, add-on (jxsg-rocks).
